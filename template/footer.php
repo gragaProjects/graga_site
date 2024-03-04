@@ -21,7 +21,7 @@
                <div class="inner">
                   <i class="icon fa fa-map-marker"></i>
                   <span class="sub-title">Address</span>
-                  <div class="text">Bangalore, Karnataka</div>
+                  <div class="text">39, Ground Floor, Surabhi Apartment, 6th Cross,Jalahalli Village, Bangalore, Karnataka - 560013</div>
                </div>
             </div>
          </div>

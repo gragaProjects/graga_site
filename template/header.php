@@ -4,7 +4,9 @@
          <div class="top-left">
             <ul class="list-style-one">
                <li><i class="fa fa-envelope"></i> <a href="mailto:info@graga.in" Style="color: white;"><span class="__cf_email__" data-cfemail="80eee5e5e4e8e5ecf0c0e3efedf0e1eef9aee3efed">info@graga.in</span></a></li>
-               <li><i class="fa fa-map-marker"></i> Bangalore, Karnataka</li>
+               <li><i class="fa fa-map-marker"></i> 39, Ground Floor, Surabhi Apartment,
+6th Cross,Jalahalli Village, 
+Bangalore, Karnataka - 560013</li>
             </ul>
          </div>
          <div class="top-right">

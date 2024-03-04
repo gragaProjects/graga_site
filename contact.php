@@ -90,12 +90,12 @@
                               </div>
                            </li>
                            <li>
-                              <div class="icon">
+                              <div class="icon" style=" padding: 30px; ">
                                  <span class="lnr-icon-location"></span>
                               </div>
                               <div class="text">
                                  <h6>Visit anytime</h6>
-                                 <span>Bangalore, Karnataka</span>
+                                 <span>39, Ground Floor, Surabhi Apartment,6th Cross,Jalahalli Village, Bangalore, Karnataka - 560013</span>
                               </div>
                            </li>
                         </ul>
@@ -105,7 +105,7 @@
             </div>
          </section>
          <section class="map-section">
-            <iframe class="map" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Grafton%20Street,%20Dublin,%20Ireland+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.6332665416653!2d77.526919284393!3d12.995292281686872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3dbb0ac7840b%3A0xa8613684b1ba07a8!2sSurabhi%20Apartment%2C%20Shakthi%20Ganapathi%20Nagar%2C%20Basaweshwara%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560079!5e0!3m2!1sen!2sin!4v1709551864902!5m2!1sen!2sin"></iframe>
          </section>
          <!-- Footer -->
          <?php include 'template/footer.php'; ?>
