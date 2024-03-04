@@ -14,7 +14,7 @@
                <div class="inner">
                   <i class="icon fa fa-envelope"></i>
                   <span class="sub-title">Send Email</span>
-                  <div class="text"><a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#c6a8a3a3a2aea3aab686a5a9abb6a7a8bfe8a5a9ab"><span class="__cf_email__" data-cfemail="e58b8080818d808995a5868a8895848b9ccb868a88">[email&#160;protected]</span></a></div>
+                  <div class="text"><a href="mailto:info@graga.in"><span class="__cf_email__" data-cfemail="e58b8080818d808995a5868a8895848b9ccb868a88">info@graga.in</span></a></div>
                </div>
             </div>
             <div class="contact-info-block col-lg-4 col-md-6">

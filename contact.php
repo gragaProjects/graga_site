@@ -86,7 +86,7 @@
                               </div>
                               <div class="text">
                                  <h6>Write email</h6>
-                                 <a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#1f717a7a7b777a736f5f7c70726f7e7166317c7072"><span class="__cf_email__" data-cfemail="355b5050515d50594575565a5845545b4c1b565a58">[email&#160;protected]</span></a>
+                                 <a href="mailto:info@graga.in"><span class="__cf_email__" data-cfemail="355b5050515d50594575565a5845545b4c1b565a58">info@graga.in</span></a>
                               </div>
                            </li>
                            <li>
