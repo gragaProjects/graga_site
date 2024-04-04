@@ -42,7 +42,8 @@
                         <div class="sec-title">
                            <span class="sub-title">get to know us</span>
                            <h2>Elevating Your Digital Presence: Our Background</h2>
-                           <div class="text">At Graga Technologies, we're passionate about bringing your digital dreams to life. We specialize in providing cutting-edge web development and digital marketing solutions tailored to meet the unique needs of your business. Our team of dedicated professionals is committed to delivering excellence in every project we undertake.</div>
+                           <div class="text">At Graga Technologies, we're more than just tech enthusiasts; we're dedicated problem solvers and creative minds. Specializing in cutting-edge web development, mobile app creation, and strategic digital marketing, we're committed to transforming your digital vision into reality. With a passion for excellence and a knack for innovation, we're here to be your trusted partner in navigating the dynamic world of technology. Welcome to Graga Technologies, where your digital success is our top priority.</div>
+                           <!-- <div class="text">At Graga Technologies, we're passionate about bringing your digital dreams to life. We specialize in providing cutting-edge web development and digital marketing solutions tailored to meet the unique needs of your business. Our team of dedicated professionals is committed to delivering excellence in every project we undertake.</div> -->
                         </div>
                         <div class="info-box">
                            <div class="inner">
@@ -63,7 +64,7 @@
                               <div class="inner">
                                  <!-- <figure class="thumb"><img src="assets/images/resource/avatar.jpg" alt></figure>
                                  <h5 class="name">Aleesha brown</h5>
-                                 <span class="designation">CEO & CO Founder</span> -->
+                                 <span class="designation">CEO & Bengaluru, India</span> -->
                               </div>
                            </div>
                            <!-- <a href="page-about.php" class="theme-btn btn-style-one"><span class="btn-title">Discover more</span></a> -->
@@ -243,9 +244,9 @@
                            <div class="testimonial-block">
                               <div class="inner-box">
                                  <div class="content-box">
-                                    <div class="text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy data foster to collaborative thinking.</div>
+                                    <div class="text">Incredible results! Our website traffic skyrocketed after partnering with  Graga Technologies. Their digital marketing strategies are unparalleled. We couldn't be happier with the exceptional ROI they've delivered.</div>
                                  </div>
-                                 <div class="info-box">
+                                 <div class="info-box" style="width: 280px;">
                                     <div class="rating">
                                        <i class="fa fa-star"></i>
                                        <i class="fa fa-star"></i>
@@ -253,16 +254,16 @@
                                        <i class="fa fa-star"></i>
                                        <i class="fa fa-star"></i>
                                     </div>
-                                    <figure class="thumb"><img src="assets/images/resource/testi-thumb-1.jpg" alt></figure>
-                                    <h5 class="name">Donald hardson</h5>
-                                    <span class="designation">Co Founder</span>
+                                    <figure class="thumb"><img src="assets/images/resource/user.png" alt></figure>
+                                    <h5 class="name">Vasu G Ramakrishna</h5>
+                                    <span class="designation">Bengaluru, India</span>
                                  </div>
                               </div>
                            </div>
                            <div class="testimonial-block">
                               <div class="inner-box">
                                  <div class="content-box">
-                                    <div class="text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy data foster to collaborative thinking.</div>
+                                    <div class="text">Exceptional service!  Graga Technologies revamped our website, and we've seen a significant increase in conversions ever since. Highly recommend their web development expertise.</div>
                                  </div>
                                  <div class="info-box">
                                     <div class="rating">
@@ -270,18 +271,18 @@
                                        <i class="fa fa-star"></i>
                                        <i class="fa fa-star"></i>
                                        <i class="fa fa-star"></i>
-                                       <i class="fa fa-star"></i>
+                                       <i class="fa fa-star-half"></i>
                                     </div>
-                                    <figure class="thumb"><img src="assets/images/resource/testi-thumb-1.jpg" alt></figure>
-                                    <h5 class="name">Donald hardson</h5>
-                                    <span class="designation">Co Founder</span>
+                                    <figure class="thumb"><img src="assets/images/resource/user.png" alt></figure>
+                                    <h5 class="name">Manish</h5>
+                                    <span class="designation">Bengaluru, India</span>
                                  </div>
                               </div>
                            </div>
                            <div class="testimonial-block">
                               <div class="inner-box">
                                  <div class="content-box">
-                                    <div class="text">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy data foster to collaborative thinking.</div>
+                                    <div class="text">Exceptional service!  Graga Technologies revamped our website, and we've seen a significant increase in conversions ever since. Highly recommend their web development expertise.</div>
                                  </div>
                                  <div class="info-box">
                                     <div class="rating">
@@ -291,9 +292,9 @@
                                        <i class="fa fa-star"></i>
                                        <i class="fa fa-star"></i>
                                     </div>
-                                    <figure class="thumb"><img src="assets/images/resource/testi-thumb-1.jpg" alt></figure>
-                                    <h5 class="name">Donald hardson</h5>
-                                    <span class="designation">Co Founder</span>
+                                    <figure class="thumb"><img src="assets/images/resource/user.png" alt></figure>
+                                    <h5 class="name">Siva Kumar</h5>
+                                    <span class="designation">Bengaluru, India</span>
                                  </div>
                               </div>
                            </div>
@@ -450,28 +451,28 @@
                      <div class="counter-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
                         <div class="inner">
                            <div class="icon-box"><i class="flaticon-completed-task"></i></div>
-                           <div class="count-box"><span class="count-text" data-speed="3000" data-stop="10">0</span></div>
+                           <div class="count-box"><span class="count-text" data-speed="3000" data-stop="100">0</span></div>
                            <h4 class="counter-title">Projects Completed</h4>
                         </div>
                      </div>
                      <div class="counter-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
                         <div class="inner">
                            <div class="icon-box"><i class="flaticon-settings"></i></div>
-                           <div class="count-box"><span class="count-text" data-speed="3000" data-stop="3">0</span></div>
+                           <div class="count-box"><span class="count-text" data-speed="3000" data-stop="20">0</span></div>
                            <h4 class="counter-title">Repeat Customers</h4>
                         </div>
                      </div>
                      <div class="counter-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
                         <div class="inner">
                            <div class="icon-box"><i class="flaticon-rating"></i></div>
-                           <div class="count-box"><span class="count-text" data-speed="3000" data-stop="7">0</span></div>
+                           <div class="count-box"><span class="count-text" data-speed="3000" data-stop="50">0</span></div>
                            <h4 class="counter-title">Satisfied Customers</h4>
                         </div>
                      </div>
                      <div class="counter-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms">
                         <div class="inner">
                            <div class="icon-box"><i class="flaticon-group"></i></div>
-                           <div class="count-box"><span class="count-text" data-speed="3000" data-stop="5">0</span></div>
+                           <div class="count-box"><span class="count-text" data-speed="3000" data-stop="10">0</span></div>
                            <h4 class="counter-title">Team Members</h4>
                         </div>
                      </div>
@@ -537,7 +538,7 @@
                </div>
             </div>
          </section> -->
-         <section class="contact-section mt-5">
+         <section class="contact-section mt-5 mb-5">
             <div class="anim-icons">
                <span class="icon icon-line3"></span>
                <span class="icon icon-arrow1"></span>
@@ -551,19 +552,22 @@
                      <h2>Let’s work together</h2>
                   </div>
                   <div class="contact-form wow fadeInLeft">
-                     <form method="post" action="https://html.kodesolution.com/2023/desix-html/get" id="contact-form">
+                     <form method="post"  id="contact-form">
                         <div class="row">
                            <div class="form-group col-lg-6 col-md-12 col-sm-12">
-                              <input type="text" name="full_name" placeholder="Your name" required>
+                              <input type="text" name="name" id="name" placeholder="Your name" required>
                            </div>
                            <div class="form-group col-lg-6 col-md-12 col-sm-12">
-                              <input type="email" name="Email" placeholder="Email Address" required>
+                              <input type="email" name="email" id="email" placeholder="Email Address" required>
+                           </div>
+                           <div class="form-group col-lg-12 col-md-12 col-sm-12">
+                           <input name="number" class="form-control" type="number" placeholder="Enter Phone" required>
                            </div>
                            <div class="form-group col-lg-12">
                               <textarea name="message" placeholder="Write a message" required></textarea>
                            </div>
                            <div class="form-group col-lg-12">
-                              <button class="theme-btn btn-style-one" type="submit" name="submit-form"><span class="btn-title">Send a message</span></button>
+                              <button class="theme-btn btn-style-one" type="submit" name="submit-form" id="submit-form"><span class="btn-title">Send a message</span></button>
                            </div>
                         </div>
                      </form>
@@ -572,7 +576,7 @@
                </div>
             </div>
          </section>
-         <section class="clients-section pull-up">
+         <!-- <section class="clients-section pull-up">
             <div class="auto-container">
                <div class="sponsors-outer">
                   <ul class="clients-carousel owl-carousel owl-theme">
@@ -584,7 +588,7 @@
                   </ul>
                </div>
             </div>
-         </section>
+         </section> -->
          <!-- Footer -->
          <?php include 'template/footer.php'; ?>
          <!-- Footer -->
@@ -633,6 +637,59 @@
                 $('#staticBackdrop').modal('show');
             });
         });
+
+
+        $(document).on('click','#submit-form',function(){
+
+         event.preventDefault();
+            $("#contact-form").valid();
+            var email = $("#email").val();
+            var name=$("#name").val();
+            
+            
+
+         if(email != '' && name != ''  ){ // 
+         
+         $.ajax({
+         type:'post',
+         url: 'https://demoblr.in/mailer/mailer.php',
+         data: new FormData($("#contact-form")[0]),
+         contentType: false,
+         processData: false, 
+         success:function(resp){
+         var data=$.parseJSON(resp);
+         if(data.status == 'success'){
+         $('#contact-form')[0].reset();
+
+         $.wnoty({
+         type: 'success',
+         message: 'Thank you for contactus!',
+         autohideDelay: 1000,
+         position: 'top-right'
+
+         });
+
+         setTimeout(function(){
+            location.reload(true);
+            },2000);
+         }else if(data.status == 'error'){
+
+               $.wnoty({
+                     type: 'error',
+                     message: data.message,
+                     autohideDelay: 1000,
+                     position: 'top-right'
+
+                     });
+            
+         }
+         },
+         });
+         }
+
+         return false;
+         })
+
     </script>
    </body>
 </html>

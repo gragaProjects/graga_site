@@ -28,37 +28,37 @@
                         <span class="sub-title">Send us email</span>
                         <h2>Feel free to write</h2>
                      </div>
-                     <form id="contact_form" name="contact_form" class action="https://html.kodesolution.com/2023/desix-html/includes/sendmail.php" method="post">
+                     <form id="contact_form" name="contact_form" class  method="post">
                         <div class="row">
                            <div class="col-sm-6">
                               <div class="mb-3">
-                                 <input name="form_name" class="form-control" type="text" placeholder="Enter Name">
+                                 <input name="name" id="name" class="form-control" type="text" placeholder="Enter Name">
                               </div>
                            </div>
                            <div class="col-sm-6">
                               <div class="mb-3">
-                                 <input name="form_email" class="form-control required email" type="email" placeholder="Enter Email">
+                                 <input name="email" id="email" class="form-control required email" type="email" placeholder="Enter Email">
                               </div>
                            </div>
                         </div>
                         <div class="row">
-                           <div class="col-sm-6">
+                           <!-- <div class="col-sm-6">
                               <div class="mb-3">
                                  <input name="form_subject" class="form-control required" type="text" placeholder="Enter Subject">
                               </div>
-                           </div>
-                           <div class="col-sm-6">
+                           </div> -->
+                           <div class="col-sm-12">
                               <div class="mb-3">
-                                 <input name="form_phone" class="form-control" type="text" placeholder="Enter Phone">
+                                 <input name="number" class="form-control" type="number" placeholder="Enter Phone" required>
                               </div>
                            </div>
                         </div>
                         <div class="mb-3">
-                           <textarea name="form_message" class="form-control required" rows="7" placeholder="Enter Message"></textarea>
+                           <textarea name="message" id="message" class="form-control required" rows="7" placeholder="Enter Message"></textarea>
                         </div>
                         <div class="mb-3">
                            <input name="form_botcheck" class="form-control" type="hidden" value />
-                           <button type="submit" class="theme-btn btn-style-one text-white" data-loading-text="Please wait..."><span class="btn-title">Send message</span></button>
+                           <button type="submit" class="theme-btn btn-style-one text-white" id="sendcontact1" data-loading-text="Please wait..."><span class="btn-title">Send message</span></button>
                            <button type="reset" class="theme-btn btn-style-one bg-theme-color5 reset"><span class="btn-title">Reset</span></button>
                         </div>
                      </form>
@@ -68,7 +68,7 @@
                         <div class="sec-title">
                            <span class="sub-title">Need any help?</span>
                            <h2>Get in touch with us</h2>
-                           <div class="text">Lorem ipsum is simply free text available dolor sit amet consectetur notted adipisicing elit sed do eiusmod tempor incididunt simply dolore magna.</div>
+                           <div class="text">Get in touch with our team to elevate your online presence and drive results with tailored digital strategies and innovative web development services.</div>
                         </div>
                         <ul class="list-unstyled contact-details__info">
                            <li>
@@ -86,7 +86,7 @@
                               </div>
                               <div class="text">
                                  <h6>Write email</h6>
-                                 <a href="mailto:info@graga.in"><span class="__cf_email__" data-cfemail="355b5050515d50594575565a5845545b4c1b565a58">info@graga.in</span></a>
+                                 <a href="mailto:webroky2@gmail.com"><span class="__cf_email__" data-cfemail="355b5050515d50594575565a5845545b4c1b565a58">webroky2@gmail.com</span></a>
                               </div>
                            </li>
                            <li>
@@ -95,7 +95,7 @@
                               </div>
                               <div class="text">
                                  <h6>Visit anytime</h6>
-                                 <span>39, Ground Floor, Surabhi Apartment,6th Cross,Jalahalli Village, Bangalore, Karnataka - 560013</span>
+                                 <span>9, 36, Tumkur Rd, Yeshwanthpur Industrial Area, Phase 1, Yeswanthpur, Bengaluru, Karnataka 560022</span>
                               </div>
                            </li>
                         </ul>
@@ -105,54 +105,71 @@
             </div>
          </section>
          <section class="map-section">
-            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.6332665416653!2d77.526919284393!3d12.995292281686872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3dbb0ac7840b%3A0xa8613684b1ba07a8!2sSurabhi%20Apartment%2C%20Shakthi%20Ganapathi%20Nagar%2C%20Basaweshwara%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560079!5e0!3m2!1sen!2sin!4v1709551864902!5m2!1sen!2sin"></iframe>
+            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.1759665455643!2d77.54614842479452!3d13.024463763717621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3dd1c850d58f%3A0x63164cc542d95ab1!2sVaishnavi%20Sapphire%20Centre!5e0!3m2!1sen!2sin!4v1710503637663!5m2!1sen!2sin"></iframe>
          </section>
          <!-- Footer -->
          <?php include 'template/footer.php'; ?>
          <!-- Footer -->
       </div>
-      <!-- <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
-         <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.js"></script>
-         <script src="js/popper.min.js"></script>
-         <script src="js/bootstrap.min.js"></script>
-         <script src="js/jquery.fancybox.js"></script>
-         <script src="js/jquery-ui.js"></script>
-         <script src="js/wow.js"></script>
-         <script src="js/appear.js"></script>
-         <script src="js/select2.min.js"></script>
-         <script src="js/swiper.min.js"></script>
-         <script src="js/owl.js"></script>
-         <script src="js/script.js"></script> -->
+
       <!-- js -->
       <?php include 'template/link-js.php'; ?>
       <!-- js -->
       <script src="assets/js/jquery.validate.min.js"></script>
       <script src="assets/js/jquery.form.min.js"></script>
       <script>
-         (function($) {
-         	$("#contact_form").validate({
-         		submitHandler: function(form) {
-         			var form_btn = $(form).find('button[type="submit"]');
-         			var form_result_div = '#form-result';
-         			$(form_result_div).remove();
-         			form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-         			var form_btn_old_msg = form_btn.php();
-         			form_btn.php(form_btn.prop('disabled', true).data("loading-text"));
-         			$(form).ajaxSubmit({
-         				dataType:  'json',
-         				success: function(data) {
-         					if( data.status == 'true' ) {
-         						$(form).find('.form-control').val('');
-         					}
-         					form_btn.prop('disabled', false).php(form_btn_old_msg);
-         					$(form_result_div).php(data.message).fadeIn('slow');
-         					setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
-         				}
-         			});
-         		}
-         	});
-         })(jQuery);
+$(document).on('click','#sendcontact1',function(){
+
+event.preventDefault();
+   $("#contact_form").valid();
+   var email = $("#email").val();
+   var name=$("#name").val();
+    
+   
+
+if(email != '' && name != ''  ){ // 
+  
+ $.ajax({
+type:'post',
+url: 'https://demoblr.in/mailer/mailer.php',
+data: new FormData($("#contact_form")[0]),
+contentType: false,
+processData: false, 
+success:function(resp){
+var data=$.parseJSON(resp);
+if(data.status == 'success'){
+$('#contact_form')[0].reset();
+
+$.wnoty({
+type: 'success',
+message: 'Thank you for contactus!',
+autohideDelay: 1000,
+position: 'top-right'
+
+});
+
+ setTimeout(function(){
+    location.reload(true);
+    },2000);
+}else if(data.status == 'error'){
+
+      $.wnoty({
+            type: 'error',
+            message: data.message,
+            autohideDelay: 1000,
+            position: 'top-right'
+
+            });
+    
+}
+},
+});
+}
+
+return false;
+})
+
       </script>
    </body>
-   <!-- Mirrored from html.kodesolution.com/2023/desix-html/page-contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 27 Feb 2024 08:02:48 GMT -->
+
 </html>

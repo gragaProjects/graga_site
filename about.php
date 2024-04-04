@@ -29,7 +29,8 @@
                         <div class="sec-title">
                            <span class="sub-title">get to know us</span>
                            <h2>Elevating Your Digital Presence: Our Background</h2>
-                           <div class="text">At Graga Technologies, we're passionate about bringing your digital dreams to life. We specialize in providing cutting-edge web development and digital marketing solutions tailored to meet the unique needs of your business. Our team of dedicated professionals is committed to delivering excellence in every project we undertake.</div>
+                           <div class="text">At Graga Technologies, we're more than just tech enthusiasts; we're dedicated problem solvers and creative minds. Specializing in cutting-edge web development, mobile app creation, and strategic digital marketing, we're committed to transforming your digital vision into reality. With a passion for excellence and a knack for innovation, we're here to be your trusted partner in navigating the dynamic world of technology. Welcome to Graga Technologies, where your digital success is our top priority.</div>
+                           <!-- <div class="text">At Graga Technologies, we're passionate about bringing your digital dreams to life. We specialize in providing cutting-edge web development and digital marketing solutions tailored to meet the unique needs of your business. Our team of dedicated professionals is committed to delivering excellence in every project we undertake.</div> -->
                         </div>
                         <div class="info-box">
                            <div class="inner">

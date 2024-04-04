@@ -3,10 +3,8 @@
       <div class="inner-container">
          <div class="top-left">
             <ul class="list-style-one">
-               <li><i class="fa fa-envelope"></i> <a href="mailto:info@graga.in" Style="color: white;"><span class="__cf_email__" data-cfemail="80eee5e5e4e8e5ecf0c0e3efedf0e1eef9aee3efed">info@graga.in</span></a></li>
-               <li><i class="fa fa-map-marker"></i> 39, Ground Floor, Surabhi Apartment,
-6th Cross,Jalahalli Village, 
-Bangalore, Karnataka - 560013</li>
+               <li><i class="fa fa-envelope"></i> <a href="mailto:webroky2@gmail.com" Style="color: white;"><span class="__cf_email__" data-cfemail="80eee5e5e4e8e5ecf0c0e3efedf0e1eef9aee3efed">webroky2@gmail.com</span></a></li>
+               <li><i class="fa fa-map-marker"></i> 9, 36, Tumkur Rd, Yeshwanthpur Industrial Area, Phase 1, Yeswanthpur, Bengaluru, Karnataka 560022</li>
             </ul>
          </div>
          <div class="top-right">
@@ -16,10 +14,10 @@ Bangalore, Karnataka - 560013</li>
                <!-- <li><a href="contact.php">Contact</a></li> -->
             </ul>
             <ul class="social-icon-one">
-               <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-               <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-               <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-               <li><a href="#"><span class="fab fa-instagram"></span></a></li>
+               <!-- <li><a href="#"><span class="fab fa-twitter"></span></a></li> -->
+               <li><a href="https://www.facebook.com/people/Graga-Technologies/61557454077917/"><span class="fab fa-facebook-square"></span></a></li>
+               <li><a href="https://www.linkedin.com/company/graga-technologies/"><span class="fab fa-linkedin"></span></a></li>
+               <li><a href="https://www.instagram.com/gragatech/"><span class="fab fa-instagram"></span></a></li>
             </ul>
          </div>
       </div>
@@ -98,7 +96,7 @@ Bangalore, Karnataka - 560013</li>
             <!-- <button class="ui-btn ui-btn search-btn">
             <span class="icon lnr lnr-icon-search"></span>
             </button> -->
-            <a href="tel:+92(8800)9806" class="info-btn">
+            <a href="tel:+9199640 85222" class="info-btn">
             <i class="icon lnr-icon-phone-handset"></i>
             <small>Call Anytime</small>
             +91 99640 85222
@@ -121,14 +119,14 @@ Bangalore, Karnataka - 560013</li>
                <div class="contact-info-box">
                   <i class="icon lnr-icon-phone-handset"></i>
                   <span class="title">Call Now</span>
-                  <a href="tel:+92880098670">+92 (8800) - 98670</a>
+                  <a href="tel:+9199640 85222"> +91 99640 85222</a>
                </div>
             </li>
             <li>
                <div class="contact-info-box">
                   <span class="icon lnr-icon-envelope1"></span>
                   <span class="title">Send Email</span>
-                  <a href="https://html.kodesolution.com/cdn-cgi/l/email-protection#3e565b524e7e5d51534e5f5047105d5153"><span class="__cf_email__" data-cfemail="adc5c8c1ddedcec2c0ddccc3d483cec2c0">[email&#160;protected]</span></a>
+                  <a href="mailto:webroky2@gmail.com"><span class="__cf_email__" >webroky2@gmail.com</span></a>
                </div>
             </li>
             <!-- <li>

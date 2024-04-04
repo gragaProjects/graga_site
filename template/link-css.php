@@ -1,3 +1,10 @@
+<?php
+session_start();
+if (!isset($_SESSION['contact_modal_shown'])) {
+    // Set the session variable to indicate that the contact modal has been shown
+    $_SESSION['contact_modal_shown'] = true;
+}
+?>
 <meta charset="utf-8">
 <title>Home | Graga Technologies </title>
 <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -9,6 +16,10 @@
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+
+<link href="assets/wnoty/wnoty.css" rel="stylesheet" type="text/css" />  
+   <link href="assets/wnoty/jquery-confirm.min.css" rel="stylesheet" type="text/css" /> 
 <style>
     .btn-style-one,.scroll-to-top,.sec-title h2:before,.why-choose-us .info-box .icon,.icon-box,.date,.news-block .content-box .read-more i,
     .testimonial-section .title-column .info-box .icon,.marquee-section,.faq-block .icon,.service-block .inner-box .hover-content .icon,.service-block .inner-box .content-box .icon,

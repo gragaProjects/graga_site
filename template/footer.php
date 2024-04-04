@@ -14,14 +14,14 @@
                <div class="inner">
                   <i class="icon fa fa-envelope"></i>
                   <span class="sub-title">Send Email</span>
-                  <div class="text"><a href="mailto:info@graga.in"><span class="__cf_email__" data-cfemail="e58b8080818d808995a5868a8895848b9ccb868a88">info@graga.in</span></a></div>
+                  <div class="text"><a href="mailto:webroky2@gmail.com"><span class="__cf_email__" data-cfemail="e58b8080818d808995a5868a8895848b9ccb868a88">webroky2@gmail.com</span></a></div>
                </div>
             </div>
             <div class="contact-info-block col-lg-4 col-md-6">
                <div class="inner">
                   <i class="icon fa fa-map-marker"></i>
                   <span class="sub-title">Address</span>
-                  <div class="text">39, Ground Floor, Surabhi Apartment, 6th Cross,Jalahalli Village, Bangalore, Karnataka - 560013</div>
+                  <div class="text">9, 36, Tumkur Rd, Yeshwanthpur Industrial Area, Phase 1, Yeswanthpur, Bengaluru, Karnataka 560022</div>
                </div>
             </div>
          </div>
@@ -36,10 +36,10 @@
                      <div class="logo"><a href="#"> <img src="assets/images/logo.png"  Style="width: 150px;" alt></a></div>
                      <div class="text">At Graga Technologies, we're passionate about bringing your digital dreams to life.</div>
                      <ul class="social-icon-two">
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <!-- <li><a href="#"><i class="fab fa-twitter"></i></a></li> -->
+                        <li><a href="https://www.facebook.com/people/Graga-Technologies/61557454077917/"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/graga-technologies/"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="https://www.instagram.com/gragatech/"><i class="fab fa-instagram"></i></a></li>
                      </ul>
                   </div>
                </div>
@@ -92,3 +92,7 @@
       </div>
    </div>
 </footer>
+
+
+
+     
